@@ -1,1 +1,1 @@
- shop website  with HTML CSS and JavaScript 
+Animated  shop website  with HTML CSS and JavaScript 
