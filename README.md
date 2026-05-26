@@ -1,1 +1,1 @@
-Animated hop website  with HTML CSS and JavaScript 
+Animated coffee hop website  with HTML CSS and JavaScript 
