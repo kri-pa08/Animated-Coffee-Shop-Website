@@ -1,1 +1,1 @@
-website  with HTML CSS and JavaScript 
+Animated website  with HTML CSS and JavaScript 
