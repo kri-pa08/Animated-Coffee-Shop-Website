@@ -1,1 +1,1 @@
-shop website  with HTML CSS and JavaScript 
+ website  with HTML CSS and JavaScript 
