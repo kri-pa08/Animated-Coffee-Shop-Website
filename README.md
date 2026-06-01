@@ -1,1 +1,1 @@
-Animated coffee sop website with HTML CSS and JavaScript 
+Animated coffee shp website with HTML CSS and JavaScript 
