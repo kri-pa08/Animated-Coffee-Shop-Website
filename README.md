@@ -1,1 +1,1 @@
-Ancoffee shop website with HTML CSS and JavaScript
+Anicoffee shop website with HTML CSS and JavaScript
