@@ -1,1 +1,1 @@
-coffee shop website with HTML CSS and JavaScript
+shop website with HTML CSS and JavaScript
