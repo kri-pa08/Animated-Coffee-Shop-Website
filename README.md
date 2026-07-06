@@ -1,1 +1,1 @@
-anshop website with HTML CSS and JavaScript
+anishop website with HTML CSS and JavaScript
