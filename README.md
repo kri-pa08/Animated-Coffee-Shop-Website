@@ -1,1 +1,1 @@
-animated shop website with HTML CSS and JavaScript
+animated coshop website with HTML CSS and JavaScript
