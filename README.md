@@ -1,1 +1,1 @@
-Animated offee shop website with HTML CSS and JavaScript
+Animated cogfee shop website with HTML CSS and JavaScript
