@@ -1,1 +1,1 @@
-offee shop website with HTML CSS and JavaScript
+animatedoffee shop website with HTML CSS and JavaScript
