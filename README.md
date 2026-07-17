@@ -1,1 +1,1 @@
-animated cde shop website with HTML CSS and JavaScript
+animated code shop website with HTML CSS and JavaScript
