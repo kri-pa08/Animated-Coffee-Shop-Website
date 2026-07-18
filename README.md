@@ -1,1 +1,1 @@
-animated offee shop website with HTML CSS and JavaScript
+animatd offee shop website with HTML CSS and JavaScript
