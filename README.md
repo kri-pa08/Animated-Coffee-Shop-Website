@@ -1,1 +1,1 @@
-Animat coffee shop website with HTML CSS and JavaScript
+Animatecoffee shop website with HTML CSS and JavaScript
