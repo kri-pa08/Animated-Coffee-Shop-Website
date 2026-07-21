@@ -1,1 +1,1 @@
-Animaoffee shop website with HTML CSS and JavaScript
+Animatoffee shop website with HTML CSS and JavaScript
