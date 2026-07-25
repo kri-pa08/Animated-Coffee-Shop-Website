@@ -1,1 +1,1 @@
-iffee shop website with HTML CSS and JavaScript
+Aiffee shop website with HTML CSS and JavaScript
