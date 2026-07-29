@@ -1,1 +1,1 @@
-Aoffee shop website with HTML CSS and JavaScript
+Anoffee shop website with HTML CSS and JavaScript
