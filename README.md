@@ -1,1 +1,1 @@
-Animatedcoffee shop website with HTML CSS and JavaScript
+Animatedc offee shop website with HTML CSS and JavaScript
