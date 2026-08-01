@@ -1,1 +1,1 @@
-Ajimatedcoffee shop website with HTML CSS and JavaScript
+Aatedcoffee shop website with HTML CSS and JavaScript
