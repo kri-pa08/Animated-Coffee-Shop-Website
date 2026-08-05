@@ -1,1 +1,1 @@
-Animatd coffee shop website with HTML CSS and JavaScript
+Anmatd coffee shop website with HTML CSS and JavaScript
