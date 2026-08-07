@@ -1,1 +1,1 @@
-Anmatedcoffee shop website with HTML CSS and JavaScript
+nmatedcoffee shop website with HTML CSS and JavaScript
