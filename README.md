@@ -1,1 +1,1 @@
-Anid coffee shop website with HTML CSS and JavaScript
+Animd coffee shop website with HTML CSS and JavaScript
