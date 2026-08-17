@@ -1,1 +1,1 @@
-Aniee shop website with HTML CSS and JavaScript
+Anshop website with HTML CSS and JavaScript
