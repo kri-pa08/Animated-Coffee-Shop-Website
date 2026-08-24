@@ -1,1 +1,1 @@
-Animatefcoffee shop website with HTML CSS and JavaScript
+Antefcoffee shop website with HTML CSS and JavaScript
