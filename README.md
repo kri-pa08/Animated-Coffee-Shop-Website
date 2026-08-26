@@ -1,1 +1,1 @@
-Animated coffee shop website with HTML CSS and 
+Animated coffee shop website with HTML CSS and JavaScript 
